@@ -4,7 +4,7 @@ import LargeMediaCard from './components/LargeMediaCard'
 import SmallMediaCard from './components/SmallMediaCard'
 import { fetchData } from './dataContext/dataContext'
 
-import SocialData from '../data.json'
+import SocialData from '../data/data.json'
 
 function App()
 {
