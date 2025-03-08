@@ -9,7 +9,7 @@ import SocialData from '../data.json'
 function App()
 {
   const [darkmode, setDarkmode] = useState(true);
-  const [data, setData] = useState(SocialData);
+  const [data, setData] = useState();
 
   const darkmodeToggle = () =>
   {
@@ -24,7 +24,7 @@ function App()
 
   const getData = async () =>
   {
-    // setData(await fetchData());
+    setData(SocialData);
 
   }
 
