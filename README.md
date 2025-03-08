@@ -13,8 +13,8 @@
     Light and Dark Mode
     Goal is to recreate this challenge as close to the design as possible
 
-*Reviewers Name*: 
+*Reviewers Name*: Chris Wells-hott
 
-*Peer Review*: 
+*Peer Review*: Everything looks good just change the font to Inter. Other than that everything is good. Good Work.
 
 *Vercel Link*: https://social-media-dashboard-in-react-liart.vercel.app
