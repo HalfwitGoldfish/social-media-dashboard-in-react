@@ -1,0 +1,134 @@
+{
+    "MediaData":
+    [
+        {
+            "totalFollowers": "23,004",
+            "lineColor": "facebookBGColor",
+            "mediaIcon": "/assets/images/icon-facebook.svg",
+            "altTag": "facebook icon",
+            "mediaName": "@nathanf",
+            "followerCount": "1987",
+            "countTitle": "F O L L O W E R S",
+            "upOrDownIcon": "/assets/images/icon-up.svg",
+            "iconAlt": "up arrow",
+            "textColor": "greenText",
+            "rateText": "12 Today"
+        },
+        {
+            "lineColor": "twitterBGColor",
+            "mediaIcon": "/assets/images/icon-twitter.svg",
+            "altTag": "twitter icon",
+            "mediaName": "@nathanf",
+            "followerCount": "1044",
+            "countTitle": "F O L L O W E R S",
+            "upOrDownIcon": "/assets/images/icon-up.svg",
+            "iconAlt": "up arrow",
+            "textColor": "greenText",
+            "rateText": "99 Today"
+        },
+        {
+            "lineColor": "instagramBGColor",
+            "mediaIcon": "/assets/images/icon-instagram.svg",
+            "altTag": "instagram icon",
+            "mediaName": "@realnathanf",
+            "followerCount": "11k",
+            "countTitle": "F O L L O W E R S",
+            "upOrDownIcon": "/assets/images/icon-up.svg",
+            "iconAlt": "up arrow",
+            "textColor": "greenText",
+            "rateText": "1099 Today"
+        },
+        {
+            "lineColor": "youtubeBGColor",
+            "mediaIcon": "/assets/images/icon-youtube.svg",
+            "altTag": "youtube icon",
+            "mediaName": "Nathan F.",
+            "followerCount": "8239",
+            "countTitle": "S U B S C R I B E R S",
+            "upOrDownIcon": "/assets/images/icon-down.svg",
+            "iconAlt": "down arrow",
+            "textColor": "redText",
+            "rateText": "144 Today"
+        },
+        {
+            "mediaIcon": "/assets/images/icon-facebook.svg",
+            "altTag": "facebook icon",
+            "mediaName": "Page Views",
+            "followerCount": "87",
+            "upOrDownIcon": "/assets/images/icon-up.svg",
+            "iconAlt": "up arrow",
+            "textColor": "greenText",
+            "rateText": "3%"
+        },
+        {
+            "mediaIcon": "/assets/images/icon-facebook.svg",
+            "altTag": "facebook icon",
+            "mediaName": "Likes",
+            "followerCount": "52",
+            "upOrDownIcon": "/assets/images/icon-down.svg",
+            "iconAlt": "down arrow",
+            "textColor": "redText",
+            "rateText": "2%"
+        },
+        {
+            "mediaIcon": "/assets/images/icon-instagram.svg",
+            "altTag": "instagram icon",
+            "mediaName": "Likes",
+            "followerCount": "5462",
+            "upOrDownIcon": "/assets/images/icon-up.svg",
+            "iconAlt": "up arrow",
+            "textColor": "greenText",
+            "rateText": "2257%"
+        },
+        {
+            "mediaIcon": "/assets/images/icon-instagram.svg",
+            "altTag": "instagram icon",
+            "mediaName": "Profile Views",
+            "followerCount": "52k",
+            "upOrDownIcon": "/assets/images/icon-up.svg",
+            "iconAlt": "up arrow",
+            "textColor": "greenText",
+            "rateText": "1375%"
+        },
+        {
+            "mediaIcon": "/assets/images/icon-twitter.svg",
+            "altTag": "twitter icon",
+            "mediaName": "Retweets",
+            "followerCount": "117",
+            "upOrDownIcon": "/assets/images/icon-up.svg",
+            "iconAlt": "up arrow",
+            "textColor": "greenText",
+            "rateText": "303%"
+        },
+        {
+            "mediaIcon": "/assets/images/icon-twitter.svg",
+            "altTag": "twitter icon",
+            "mediaName": "Likes",
+            "followerCount": "507",
+            "upOrDownIcon": "/assets/images/icon-up.svg",
+            "iconAlt": "up arrow",
+            "textColor": "greenText",
+            "rateText": "553%"
+        },
+        {
+            "mediaIcon": "/assets/images/icon-youtube.svg",
+            "altTag": "youtube icon",
+            "mediaName": "Likes",
+            "followerCount": "107",
+            "upOrDownIcon": "/assets/images/icon-down.svg",
+            "iconAlt": "down arrow",
+            "textColor": "redText",
+            "rateText": "19%"
+        },
+        {
+            "mediaIcon": "/assets/images/icon-youtube.svg",
+            "altTag": "youtube icon",
+            "mediaName": "Total Views",
+            "followerCount": "1407",
+            "upOrDownIcon": "/assets/images/icon-down.svg",
+            "iconAlt": "down arrow",
+            "textColor": "redText",
+            "rateText": "12%"
+        }
+    ]
+}
