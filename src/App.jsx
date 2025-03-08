@@ -4,10 +4,12 @@ import LargeMediaCard from './components/LargeMediaCard'
 import SmallMediaCard from './components/SmallMediaCard'
 import { fetchData } from './dataContext/dataContext'
 
+import SocialData from '../data.json'
+
 function App()
 {
   const [darkmode, setDarkmode] = useState(true);
-  const [data, setData] = useState();
+  const [data, setData] = useState(SocialData);
 
   const darkmodeToggle = () =>
   {
@@ -22,7 +24,8 @@ function App()
 
   const getData = async () =>
   {
-    setData(await fetchData());
+    // setData(await fetchData());
+
   }
 
   useEffect(() =>
