@@ -2,6 +2,7 @@ import { useEffect, useState } from 'react'
 import './App.css'
 import LargeMediaCard from './components/LargeMediaCard'
 import SmallMediaCard from './components/SmallMediaCard'
+import { fetchData } from './dataContext/dataContext'
 
 function App()
 {
@@ -19,16 +20,14 @@ function App()
     }
   }
 
-  const fetchData = async () =>
+  const getData = async () =>
   {
-    const response = await fetch("./data/data.json");
-    const data = await response.json();
-    setData( data );
+    setData(await fetchData());
   }
 
   useEffect(() =>
   {
-    fetchData();
+    getData();
   },[])
 
   return (
