@@ -17,4 +17,4 @@
 
 *Peer Review*: 
 
-*Vercel Link*: https://advice-generator-in-react-six.vercel.app
+*Vercel Link*: https://social-media-dashboard-in-react-liart.vercel.app
